@@ -1,0 +1,7 @@
+# str()  function  demo  program
+print(str(25))    #  '25'
+print(str(10.8))
+print(str(3 + 4j))
+print(str(True))
+print(str(False))
+print(str(None))
